@@ -9,7 +9,7 @@
 
 ### features are 
 * The percentage of punctuation
-* Density, 
+* Density
 * Read ability 
 * Percentage of verb
 * Percentage of noun
@@ -26,5 +26,5 @@ The average accuracy rate of the features is about 45 %. (Naive Bayes algorithm)
 * Books are similar
 * Nonsignificant features
 
-# Plot
+# Plot - Accuracy of 10 features
 ![alt text](https://github.com/ma-e/10-features-of-5-books/blob/master/plot/EMA_plot.png "Logo Title Text 1")
