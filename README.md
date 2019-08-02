@@ -10,7 +10,7 @@
 ### features are 
 * The percentage of punctuation
 * Density
-* Read ability 
+* Readability 
 * Percentage of verb
 * Percentage of noun
 * Percentage of adjectives
